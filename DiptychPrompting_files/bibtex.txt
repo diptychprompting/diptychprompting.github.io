@@ -1,6 +1,6 @@
-@article{ruiz2022dreambooth,
-  title={DreamBooth: Fine Tuning Text-to-image Diffusion Models for Subject-Driven Generation},
-  author={Ruiz, Nataniel and Li, Yuanzhen and Jampani, Varun and Pritch, Yael and Rubinstein, Michael and Aberman, Kfir},
-  booktitle={arXiv preprint arxiv:2208.12242},
-  year={2022}
+@article{shin2024diptychprompting,
+  title={Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator},
+  author={Chaehun Shin and Jooyoung Choi and Heeseung Kim and Sungroh Yoon},
+  booktitle={arXiv preprint arxiv:2411.15466},
+  year={2024}
 }
